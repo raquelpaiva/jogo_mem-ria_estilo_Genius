@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Jogo Genius 👋</h1>
+<h1 align="center">Welcome to Genius Game 👋</h1>
 <p>
 </p>
 
